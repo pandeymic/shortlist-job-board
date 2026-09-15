@@ -1,0 +1,15 @@
+{
+  "name": "shortlist-sheets",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0 <25"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test test/core.test.mjs",
+    "sync": "node cli.mjs sync",
+    "status": "node cli.mjs status"
+  }
+}

@@ -1,0 +1,29 @@
+services:
+  - type: web
+    name: shortlist
+    runtime: node
+    plan: starter
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /api/jobs
+    envVars:
+      - key: HOST
+        value: 0.0.0.0
+      - key: PORT
+        value: 10000
+      - key: DATABASE_PATH
+        value: /opt/render/project/src/data/shortlist.sqlite
+      - key: GOOGLE_SHEET_TAB
+        value: Jobs
+      - key: GOOGLE_SPREADSHEET_ID
+        sync: false
+      - key: GOOGLE_SERVICE_ACCOUNT_EMAIL
+        sync: false
+      - key: GOOGLE_PRIVATE_KEY
+        sync: false
+      - key: PUBLIC_BASE_URL
+        sync: false
+    disk:
+      name: shortlist-data
+      mountPath: /opt/render/project/src/data
+      sizeGB: 1

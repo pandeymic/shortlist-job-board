@@ -1,0 +1,12 @@
+.env
+.env.*
+data
+backups
+secrets
+credentials
+*.sqlite*
+*.pem
+*.key
+*service-account*.json
+node_modules
+.git
