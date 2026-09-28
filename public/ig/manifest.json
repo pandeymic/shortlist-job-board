@@ -1,0 +1,53 @@
+{
+  "generated_at": "2026-09-28T21:32:38.537Z",
+  "count": 3,
+  "cards": [
+    {
+      "job_id": "web-search-08650ad1b2b3c82f",
+      "file": "card-web-search-08650ad1b2b3c82f.jpg",
+      "title": "Frontend Engineer",
+      "company": "Higglo",
+      "salary_text": ""
+    },
+    {
+      "job_id": "web-search-6880694099d978e5",
+      "file": "card-web-search-6880694099d978e5.jpg",
+      "title": "Backend Engineer - REMOTE",
+      "company": "Cognizant",
+      "salary_text": ""
+    },
+    {
+      "job_id": "web-search-5befc043dea33339",
+      "file": "card-web-search-5befc043dea33339.jpg",
+      "title": "Product Designer",
+      "company": "Framer",
+      "salary_text": ""
+    }
+  ],
+  "slides": [
+    {
+      "file": "card-cover.jpg",
+      "kind": "cover"
+    },
+    {
+      "file": "card-web-search-08650ad1b2b3c82f.jpg",
+      "kind": "job",
+      "job_id": "web-search-08650ad1b2b3c82f"
+    },
+    {
+      "file": "card-web-search-6880694099d978e5.jpg",
+      "kind": "job",
+      "job_id": "web-search-6880694099d978e5"
+    },
+    {
+      "file": "card-web-search-5befc043dea33339.jpg",
+      "kind": "job",
+      "job_id": "web-search-5befc043dea33339"
+    },
+    {
+      "file": "card-cta.jpg",
+      "kind": "cta"
+    }
+  ],
+  "carousel_caption": "Looking for your next tech role? Start here.\n\n1. Frontend Engineer at Higglo - Salary not listed\n2. Backend Engineer - REMOTE at Cognizant - Salary not listed\n3. Product Designer at Framer - Salary not listed\n\nApply links: link in bio. Follow for more curated roles.\nComment JOBS for more roles like these. Save and share with a friend.\n\n#techjobs #indiajobs #hiring #jobsearch #softwarejobs\n\nTech jobs, fresher jobs, software careers in India. Job details and availability may change; confirm on the employer site."
+}
