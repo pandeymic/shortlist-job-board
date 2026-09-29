@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-28T21:36:27.575Z",
+  "generated_at": "2026-09-29T10:44:40.750Z",
   "count": 3,
   "cards": [
     {
-      "job_id": "web-search-08650ad1b2b3c82f",
-      "file": "card-web-search-08650ad1b2b3c82f.jpg",
-      "title": "Frontend Engineer",
-      "company": "Higglo",
-      "salary_text": ""
+      "job_id": "web-search-05808e7cc2223de6",
+      "file": "card-web-search-05808e7cc2223de6.jpg",
+      "title": "Data Analyst - Business Intelligence",
+      "company": "Pipze",
+      "salary_text": "$50K-$80K"
     },
     {
-      "job_id": "web-search-6880694099d978e5",
-      "file": "card-web-search-6880694099d978e5.jpg",
-      "title": "Backend Engineer - REMOTE",
-      "company": "Cognizant",
-      "salary_text": ""
+      "job_id": "web-search-3583bb76ffd9e8b3",
+      "file": "card-web-search-3583bb76ffd9e8b3.jpg",
+      "title": "Marketing Manager",
+      "company": "Compyl",
+      "salary_text": "$100K-$140K"
     },
     {
-      "job_id": "web-search-5befc043dea33339",
-      "file": "card-web-search-5befc043dea33339.jpg",
-      "title": "Product Designer",
-      "company": "Framer",
+      "job_id": "web-search-64a91eb8f8a59f89",
+      "file": "card-web-search-64a91eb8f8a59f89.jpg",
+      "title": "Sales Executive",
+      "company": "Megaport",
       "salary_text": ""
     }
   ],
@@ -30,24 +30,24 @@
       "kind": "cover"
     },
     {
-      "file": "card-web-search-08650ad1b2b3c82f.jpg",
+      "file": "card-web-search-05808e7cc2223de6.jpg",
       "kind": "job",
-      "job_id": "web-search-08650ad1b2b3c82f"
+      "job_id": "web-search-05808e7cc2223de6"
     },
     {
-      "file": "card-web-search-6880694099d978e5.jpg",
+      "file": "card-web-search-3583bb76ffd9e8b3.jpg",
       "kind": "job",
-      "job_id": "web-search-6880694099d978e5"
+      "job_id": "web-search-3583bb76ffd9e8b3"
     },
     {
-      "file": "card-web-search-5befc043dea33339.jpg",
+      "file": "card-web-search-64a91eb8f8a59f89.jpg",
       "kind": "job",
-      "job_id": "web-search-5befc043dea33339"
+      "job_id": "web-search-64a91eb8f8a59f89"
     },
     {
       "file": "card-cta.jpg",
       "kind": "cta"
     }
   ],
-  "carousel_caption": "Looking for your next tech role? Start here.\n\n1. Frontend Engineer at Higglo - Salary not listed\n2. Backend Engineer - REMOTE at Cognizant - Salary not listed\n3. Product Designer at Framer - Salary not listed\n\nApply links: link in bio. Follow for more curated roles.\nComment JOBS for more roles like these. Save and share with a friend.\n\n#techjobs #indiajobs #hiring #jobsearch #softwarejobs\n\nTech jobs, fresher jobs, software careers in India. Job details and availability may change; confirm on the employer site."
+  "carousel_caption": "Looking for your next tech role? Start here.\n\n1. Data Analyst - Business Intelligence at Pipze - $50K-$80K\n2. Marketing Manager at Compyl - $100K-$140K\n3. Sales Executive at Megaport - Salary not listed\n\nApply links: link in bio. Follow for more curated roles.\nComment JOBS for more roles like these. Save and share with a friend.\n\n#techjobs #indiajobs #hiring #jobsearch #softwarejobs\n\nTech jobs, fresher jobs, software careers in India. Job details and availability may change; confirm on the employer site."
 }
