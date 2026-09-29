@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-09-29T10:44:40.750Z",
+  "generated_at": "2026-09-29T10:50:47.010Z",
   "count": 3,
   "cards": [
     {
-      "job_id": "web-search-05808e7cc2223de6",
-      "file": "card-web-search-05808e7cc2223de6.jpg",
-      "title": "Data Analyst - Business Intelligence",
-      "company": "Pipze",
-      "salary_text": "$50K-$80K"
-    },
-    {
-      "job_id": "web-search-3583bb76ffd9e8b3",
-      "file": "card-web-search-3583bb76ffd9e8b3.jpg",
-      "title": "Marketing Manager",
-      "company": "Compyl",
-      "salary_text": "$100K-$140K"
-    },
-    {
-      "job_id": "web-search-64a91eb8f8a59f89",
-      "file": "card-web-search-64a91eb8f8a59f89.jpg",
-      "title": "Sales Executive",
-      "company": "Megaport",
+      "job_id": "web-search-759e26d755e20b38",
+      "file": "card-web-search-759e26d755e20b38.jpg",
+      "title": "Customer Support Specialist II",
+      "company": "Abbott",
       "salary_text": ""
+    },
+    {
+      "job_id": "web-search-39e3f41655d893d2",
+      "file": "card-web-search-39e3f41655d893d2.jpg",
+      "title": "Finance Manager",
+      "company": "UnitedHealth Group",
+      "salary_text": ""
+    },
+    {
+      "job_id": "web-search-b612704a6f25dfba",
+      "file": "card-web-search-b612704a6f25dfba.jpg",
+      "title": "Operations Manager, Accounts",
+      "company": "Commure",
+      "salary_text": "$90K-$120K"
     }
   ],
   "slides": [
@@ -30,24 +30,24 @@
       "kind": "cover"
     },
     {
-      "file": "card-web-search-05808e7cc2223de6.jpg",
+      "file": "card-web-search-759e26d755e20b38.jpg",
       "kind": "job",
-      "job_id": "web-search-05808e7cc2223de6"
+      "job_id": "web-search-759e26d755e20b38"
     },
     {
-      "file": "card-web-search-3583bb76ffd9e8b3.jpg",
+      "file": "card-web-search-39e3f41655d893d2.jpg",
       "kind": "job",
-      "job_id": "web-search-3583bb76ffd9e8b3"
+      "job_id": "web-search-39e3f41655d893d2"
     },
     {
-      "file": "card-web-search-64a91eb8f8a59f89.jpg",
+      "file": "card-web-search-b612704a6f25dfba.jpg",
       "kind": "job",
-      "job_id": "web-search-64a91eb8f8a59f89"
+      "job_id": "web-search-b612704a6f25dfba"
     },
     {
       "file": "card-cta.jpg",
       "kind": "cta"
     }
   ],
-  "carousel_caption": "Looking for your next tech role? Start here.\n\n1. Data Analyst - Business Intelligence at Pipze - $50K-$80K\n2. Marketing Manager at Compyl - $100K-$140K\n3. Sales Executive at Megaport - Salary not listed\n\nApply links: link in bio. Follow for more curated roles.\nComment JOBS for more roles like these. Save and share with a friend.\n\n#techjobs #indiajobs #hiring #jobsearch #softwarejobs\n\nTech jobs, fresher jobs, software careers in India. Job details and availability may change; confirm on the employer site."
+  "carousel_caption": "Looking for your next tech role? Start here.\n\n1. Customer Support Specialist II at Abbott - Salary not listed\n2. Finance Manager at UnitedHealth Group - Salary not listed\n3. Operations Manager, Accounts at Commure - $90K-$120K\n\nApply links: link in bio. Follow for more curated roles.\nComment JOBS for more roles like these. Save and share with a friend.\n\n#techjobs #indiajobs #hiring #jobsearch #softwarejobs\n\nTech jobs, fresher jobs, software careers in India. Job details and availability may change; confirm on the employer site."
 }
