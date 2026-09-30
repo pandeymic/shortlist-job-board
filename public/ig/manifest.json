@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-09-29T10:50:47.010Z",
+  "generated_at": "2026-09-30T10:39:36.512Z",
   "count": 3,
   "cards": [
     {
-      "job_id": "web-search-759e26d755e20b38",
-      "file": "card-web-search-759e26d755e20b38.jpg",
-      "title": "Customer Support Specialist II",
-      "company": "Abbott",
+      "job_id": "web-search-badc1dcec50cb4b9",
+      "file": "card-web-search-badc1dcec50cb4b9.jpg",
+      "title": "Finance Operations Internship | Undergraduate or Graduate - Summer 2027",
+      "company": "Endeavor",
       "salary_text": ""
     },
     {
-      "job_id": "web-search-39e3f41655d893d2",
-      "file": "card-web-search-39e3f41655d893d2.jpg",
-      "title": "Finance Manager",
-      "company": "UnitedHealth Group",
+      "job_id": "google-careers-past-week-0f441923fcc55196",
+      "file": "card-google-careers-past-week-0f441923fcc55196.jpg",
+      "title": "Senior Frontend Engineer",
+      "company": "Roboto",
       "salary_text": ""
     },
     {
-      "job_id": "web-search-b612704a6f25dfba",
-      "file": "card-web-search-b612704a6f25dfba.jpg",
-      "title": "Operations Manager, Accounts",
-      "company": "Commure",
-      "salary_text": "$90K-$120K"
+      "job_id": "google-careers-past-week-ab77ac702d24aa38",
+      "file": "card-google-careers-past-week-ab77ac702d24aa38.jpg",
+      "title": "Full Stack Developer",
+      "company": "Afterdoor Solutions",
+      "salary_text": ""
     }
   ],
   "slides": [
@@ -30,24 +30,24 @@
       "kind": "cover"
     },
     {
-      "file": "card-web-search-759e26d755e20b38.jpg",
+      "file": "card-web-search-badc1dcec50cb4b9.jpg",
       "kind": "job",
-      "job_id": "web-search-759e26d755e20b38"
+      "job_id": "web-search-badc1dcec50cb4b9"
     },
     {
-      "file": "card-web-search-39e3f41655d893d2.jpg",
+      "file": "card-google-careers-past-week-0f441923fcc55196.jpg",
       "kind": "job",
-      "job_id": "web-search-39e3f41655d893d2"
+      "job_id": "google-careers-past-week-0f441923fcc55196"
     },
     {
-      "file": "card-web-search-b612704a6f25dfba.jpg",
+      "file": "card-google-careers-past-week-ab77ac702d24aa38.jpg",
       "kind": "job",
-      "job_id": "web-search-b612704a6f25dfba"
+      "job_id": "google-careers-past-week-ab77ac702d24aa38"
     },
     {
       "file": "card-cta.jpg",
       "kind": "cta"
     }
   ],
-  "carousel_caption": "Looking for your next tech role? Start here.\n\n1. Customer Support Specialist II at Abbott - Salary not listed\n2. Finance Manager at UnitedHealth Group - Salary not listed\n3. Operations Manager, Accounts at Commure - $90K-$120K\n\nApply links: link in bio. Follow for more curated roles.\nComment JOBS for more roles like these. Save and share with a friend.\n\n#techjobs #indiajobs #hiring #jobsearch #softwarejobs\n\nTech jobs, fresher jobs, software careers in India. Job details and availability may change; confirm on the employer site."
+  "carousel_caption": "Looking for your next tech role? Start here.\n\n1. Finance Operations Internship | Undergraduate or Graduate - Summer 2027 at Endeavor - Salary not listed\n2. Senior Frontend Engineer at Roboto - Salary not listed\n3. Full Stack Developer at Afterdoor Solutions - Salary not listed\n\nApply links: link in bio. Follow for more curated roles.\nComment JOBS for more roles like these. Save and share with a friend.\n\n#techjobs #indiajobs #hiring #jobsearch #softwarejobs\n\nTech jobs, fresher jobs, software careers in India. Job details and availability may change; confirm on the employer site."
 }
