@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-30T10:39:36.512Z",
+  "generated_at": "2026-10-01T11:06:43.696Z",
   "count": 3,
   "cards": [
     {
-      "job_id": "web-search-badc1dcec50cb4b9",
-      "file": "card-web-search-badc1dcec50cb4b9.jpg",
-      "title": "Finance Operations Internship | Undergraduate or Graduate - Summer 2027",
-      "company": "Endeavor",
+      "job_id": "google-careers-past-week-4ce9698be3d8aca9",
+      "file": "card-google-careers-past-week-4ce9698be3d8aca9.jpg",
+      "title": "Senior Python Backend Engineer",
+      "company": "EPAM",
       "salary_text": ""
     },
     {
-      "job_id": "google-careers-past-week-0f441923fcc55196",
-      "file": "card-google-careers-past-week-0f441923fcc55196.jpg",
-      "title": "Senior Frontend Engineer",
-      "company": "Roboto",
+      "job_id": "google-careers-past-week-3b65e606e723e8f2",
+      "file": "card-google-careers-past-week-3b65e606e723e8f2.jpg",
+      "title": "AI Engineer",
+      "company": "EPAM",
       "salary_text": ""
     },
     {
-      "job_id": "google-careers-past-week-ab77ac702d24aa38",
-      "file": "card-google-careers-past-week-ab77ac702d24aa38.jpg",
-      "title": "Full Stack Developer",
-      "company": "Afterdoor Solutions",
+      "job_id": "google-careers-past-week-54cfacb21f92952b",
+      "file": "card-google-careers-past-week-54cfacb21f92952b.jpg",
+      "title": "AI Engineer",
+      "company": "Pokee AI",
       "salary_text": ""
     }
   ],
@@ -30,24 +30,24 @@
       "kind": "cover"
     },
     {
-      "file": "card-web-search-badc1dcec50cb4b9.jpg",
+      "file": "card-google-careers-past-week-4ce9698be3d8aca9.jpg",
       "kind": "job",
-      "job_id": "web-search-badc1dcec50cb4b9"
+      "job_id": "google-careers-past-week-4ce9698be3d8aca9"
     },
     {
-      "file": "card-google-careers-past-week-0f441923fcc55196.jpg",
+      "file": "card-google-careers-past-week-3b65e606e723e8f2.jpg",
       "kind": "job",
-      "job_id": "google-careers-past-week-0f441923fcc55196"
+      "job_id": "google-careers-past-week-3b65e606e723e8f2"
     },
     {
-      "file": "card-google-careers-past-week-ab77ac702d24aa38.jpg",
+      "file": "card-google-careers-past-week-54cfacb21f92952b.jpg",
       "kind": "job",
-      "job_id": "google-careers-past-week-ab77ac702d24aa38"
+      "job_id": "google-careers-past-week-54cfacb21f92952b"
     },
     {
       "file": "card-cta.jpg",
       "kind": "cta"
     }
   ],
-  "carousel_caption": "Looking for your next tech role? Start here.\n\n1. Finance Operations Internship | Undergraduate or Graduate - Summer 2027 at Endeavor - Salary not listed\n2. Senior Frontend Engineer at Roboto - Salary not listed\n3. Full Stack Developer at Afterdoor Solutions - Salary not listed\n\nApply links: link in bio. Follow for more curated roles.\nComment JOBS for more roles like these. Save and share with a friend.\n\n#techjobs #indiajobs #hiring #jobsearch #softwarejobs\n\nTech jobs, fresher jobs, software careers in India. Job details and availability may change; confirm on the employer site."
+  "carousel_caption": "Looking for your next tech role? Start here.\n\n1. Senior Python Backend Engineer at EPAM - Salary not listed\n2. AI Engineer at EPAM - Salary not listed\n3. AI Engineer at Pokee AI - Salary not listed\n\nApply links: link in bio. Follow for more curated roles.\nComment JOBS for more roles like these. Save and share with a friend.\n\n#techjobs #indiajobs #hiring #jobsearch #softwarejobs\n\nTech jobs, fresher jobs, software careers in India. Job details and availability may change; confirm on the employer site."
 }
