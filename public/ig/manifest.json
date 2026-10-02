@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-10-01T11:06:43.696Z",
-  "count": 3,
+  "generated_at": "2026-10-02T10:40:12.745Z",
+  "count": 1,
   "cards": [
     {
-      "job_id": "google-careers-past-week-4ce9698be3d8aca9",
-      "file": "card-google-careers-past-week-4ce9698be3d8aca9.jpg",
-      "title": "Senior Python Backend Engineer",
-      "company": "EPAM",
-      "salary_text": ""
-    },
-    {
-      "job_id": "google-careers-past-week-3b65e606e723e8f2",
-      "file": "card-google-careers-past-week-3b65e606e723e8f2.jpg",
-      "title": "AI Engineer",
-      "company": "EPAM",
-      "salary_text": ""
-    },
-    {
-      "job_id": "google-careers-past-week-54cfacb21f92952b",
-      "file": "card-google-careers-past-week-54cfacb21f92952b.jpg",
-      "title": "AI Engineer",
-      "company": "Pokee AI",
+      "job_id": "google-careers-past-week-6f83af7b11c596bf",
+      "file": "card-google-careers-past-week-6f83af7b11c596bf.jpg",
+      "title": "AI/ML Engineer",
+      "company": "Arranto",
       "salary_text": ""
     }
   ],
@@ -30,24 +16,14 @@
       "kind": "cover"
     },
     {
-      "file": "card-google-careers-past-week-4ce9698be3d8aca9.jpg",
+      "file": "card-google-careers-past-week-6f83af7b11c596bf.jpg",
       "kind": "job",
-      "job_id": "google-careers-past-week-4ce9698be3d8aca9"
-    },
-    {
-      "file": "card-google-careers-past-week-3b65e606e723e8f2.jpg",
-      "kind": "job",
-      "job_id": "google-careers-past-week-3b65e606e723e8f2"
-    },
-    {
-      "file": "card-google-careers-past-week-54cfacb21f92952b.jpg",
-      "kind": "job",
-      "job_id": "google-careers-past-week-54cfacb21f92952b"
+      "job_id": "google-careers-past-week-6f83af7b11c596bf"
     },
     {
       "file": "card-cta.jpg",
       "kind": "cta"
     }
   ],
-  "carousel_caption": "Looking for your next tech role? Start here.\n\n1. Senior Python Backend Engineer at EPAM - Salary not listed\n2. AI Engineer at EPAM - Salary not listed\n3. AI Engineer at Pokee AI - Salary not listed\n\nApply links: link in bio. Follow for more curated roles.\nComment JOBS for more roles like these. Save and share with a friend.\n\n#techjobs #indiajobs #hiring #jobsearch #softwarejobs\n\nTech jobs, fresher jobs, software careers in India. Job details and availability may change; confirm on the employer site."
+  "carousel_caption": "Looking for your next tech role? Start here.\n\n1. AI/ML Engineer at Arranto - Salary not listed\n\nApply links: link in bio. Follow for more curated roles.\nComment JOBS for more roles like these. Save and share with a friend.\n\n#techjobs #indiajobs #hiring #jobsearch #softwarejobs\n\nTech jobs, fresher jobs, software careers in India. Job details and availability may change; confirm on the employer site."
 }
